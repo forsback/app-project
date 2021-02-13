@@ -1,2 +1,2 @@
-this is fileb
+this is fileb-merge
 changes to b
